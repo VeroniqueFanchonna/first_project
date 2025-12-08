@@ -2,4 +2,4 @@ input_data:
   file: "../data/raw/sleep_health_and_lifestyle_dataset.csv"
 
 output_data:
-  file: "../data/clean/cleaned_data_file.csv"
+  file: "../data/clean/sleep_health_project_clean.csv"
